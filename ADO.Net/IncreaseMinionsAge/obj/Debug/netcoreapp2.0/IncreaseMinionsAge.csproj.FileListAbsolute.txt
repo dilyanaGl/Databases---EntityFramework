@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\bin\Debug\netcoreapp2.0\IncreaseMinionsAge.deps.json
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\bin\Debug\netcoreapp2.0\IncreaseMinionsAge.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\bin\Debug\netcoreapp2.0\IncreaseMinionsAge.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\bin\Debug\netcoreapp2.0\IncreaseMinionsAge.dll
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\obj\Debug\netcoreapp2.0\IncreaseMinionsAge.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\obj\Debug\netcoreapp2.0\IncreaseMinionsAge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\obj\Debug\netcoreapp2.0\IncreaseMinionsAge.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\obj\Debug\netcoreapp2.0\IncreaseMinionsAge.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\bin\Debug\netcoreapp2.0\IncreaseMinionsAge.pdb
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\obj\Debug\netcoreapp2.0\IncreaseMinionsAge.dll
+C:\Users\User\source\repos\ADO.Net\IncreaseMinionsAge\obj\Debug\netcoreapp2.0\IncreaseMinionsAge.pdb

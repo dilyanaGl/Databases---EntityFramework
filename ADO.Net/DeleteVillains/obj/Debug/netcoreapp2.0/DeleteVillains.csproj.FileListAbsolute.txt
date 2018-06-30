@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\bin\Debug\netcoreapp2.0\DeleteVillains.deps.json
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\bin\Debug\netcoreapp2.0\DeleteVillains.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\bin\Debug\netcoreapp2.0\DeleteVillains.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\bin\Debug\netcoreapp2.0\DeleteVillains.dll
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\bin\Debug\netcoreapp2.0\DeleteVillains.pdb
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\obj\Debug\netcoreapp2.0\DeleteVillains.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\obj\Debug\netcoreapp2.0\DeleteVillains.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\obj\Debug\netcoreapp2.0\DeleteVillains.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\obj\Debug\netcoreapp2.0\DeleteVillains.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\obj\Debug\netcoreapp2.0\DeleteVillains.dll
+C:\Users\User\source\repos\ADO.Net\DeleteVillains\obj\Debug\netcoreapp2.0\DeleteVillains.pdb

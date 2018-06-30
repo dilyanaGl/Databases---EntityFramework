@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\bin\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.deps.json
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\bin\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\bin\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\bin\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.dll
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\bin\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.pdb
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\obj\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\obj\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\obj\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\obj\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.dll
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\obj\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.pdb
+C:\Users\User\source\repos\ADO.Net\IncreaseAgeWithProcedure\obj\Debug\netcoreapp2.0\IncreaseAgeWithProcedure.csprojResolveAssemblyReference.cache

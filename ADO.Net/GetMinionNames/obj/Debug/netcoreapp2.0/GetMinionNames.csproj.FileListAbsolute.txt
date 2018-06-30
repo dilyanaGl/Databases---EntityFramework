@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\bin\Debug\netcoreapp2.0\GetMinionNames.deps.json
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\bin\Debug\netcoreapp2.0\GetMinionNames.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\bin\Debug\netcoreapp2.0\GetMinionNames.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\bin\Debug\netcoreapp2.0\GetMinionNames.dll
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\bin\Debug\netcoreapp2.0\GetMinionNames.pdb
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\obj\Debug\netcoreapp2.0\GetMinionNames.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\obj\Debug\netcoreapp2.0\GetMinionNames.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\obj\Debug\netcoreapp2.0\GetMinionNames.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\obj\Debug\netcoreapp2.0\GetMinionNames.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\obj\Debug\netcoreapp2.0\GetMinionNames.dll
+C:\Users\User\source\repos\ADO.Net\GetMinionNames\obj\Debug\netcoreapp2.0\GetMinionNames.pdb

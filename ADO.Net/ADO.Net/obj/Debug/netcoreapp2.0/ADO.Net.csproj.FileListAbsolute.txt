@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\ADO.Net.deps.json
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\ADO.Net.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\ADO.Net.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\ADO.Net.dll
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\ADO.Net.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\ADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\ADO.Net.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\ADO.Net.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\ADO.Net.pdb
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\ADO.Net.dll
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\ADO.Net.pdb

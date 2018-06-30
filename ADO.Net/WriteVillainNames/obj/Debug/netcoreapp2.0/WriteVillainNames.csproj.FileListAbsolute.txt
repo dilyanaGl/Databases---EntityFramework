@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\bin\Debug\netcoreapp2.0\WriteVillainNames.deps.json
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\bin\Debug\netcoreapp2.0\WriteVillainNames.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\bin\Debug\netcoreapp2.0\WriteVillainNames.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\bin\Debug\netcoreapp2.0\WriteVillainNames.dll
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\bin\Debug\netcoreapp2.0\WriteVillainNames.pdb
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\obj\Debug\netcoreapp2.0\WriteVillainNames.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\obj\Debug\netcoreapp2.0\WriteVillainNames.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\obj\Debug\netcoreapp2.0\WriteVillainNames.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\obj\Debug\netcoreapp2.0\WriteVillainNames.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\obj\Debug\netcoreapp2.0\WriteVillainNames.dll
+C:\Users\User\source\repos\ADO.Net\WriteVillainNames\obj\Debug\netcoreapp2.0\WriteVillainNames.pdb

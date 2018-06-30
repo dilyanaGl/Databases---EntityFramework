@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\bin\Debug\netcoreapp2.0\MiniOrmApp.deps.json
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\bin\Debug\netcoreapp2.0\MiniOrmApp.runtimeconfig.json
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\bin\Debug\netcoreapp2.0\MiniOrmApp.runtimeconfig.dev.json
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\bin\Debug\netcoreapp2.0\MiniOrmApp.dll
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\bin\Debug\netcoreapp2.0\MiniOrmApp.pdb
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\obj\Debug\netcoreapp2.0\MiniOrmApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\obj\Debug\netcoreapp2.0\MiniOrmApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\obj\Debug\netcoreapp2.0\MiniOrmApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\obj\Debug\netcoreapp2.0\MiniOrmApp.AssemblyInfo.cs
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\obj\Debug\netcoreapp2.0\MiniOrmApp.dll
+C:\Users\User\Downloads\02. DB-Advanced-ORM-Fundamentals-MiniORM-Lab-Skeleton\MiniOrmApp\obj\Debug\netcoreapp2.0\MiniOrmApp.pdb

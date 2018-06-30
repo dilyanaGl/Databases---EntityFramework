@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\bin\Debug\netcoreapp2.0\ChangeTownCasing.deps.json
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\bin\Debug\netcoreapp2.0\ChangeTownCasing.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\bin\Debug\netcoreapp2.0\ChangeTownCasing.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\bin\Debug\netcoreapp2.0\ChangeTownCasing.dll
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\bin\Debug\netcoreapp2.0\ChangeTownCasing.pdb
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\obj\Debug\netcoreapp2.0\ChangeTownCasing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\obj\Debug\netcoreapp2.0\ChangeTownCasing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\obj\Debug\netcoreapp2.0\ChangeTownCasing.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\obj\Debug\netcoreapp2.0\ChangeTownCasing.dll
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\obj\Debug\netcoreapp2.0\ChangeTownCasing.pdb
+C:\Users\User\source\repos\ADO.Net\ChangeTownCasing\obj\Debug\netcoreapp2.0\ChangeTownCasing.csprojResolveAssemblyReference.cache

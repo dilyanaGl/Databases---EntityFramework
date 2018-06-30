@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\InitialiseDatabase.deps.json
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\InitialiseDatabase.runtimeconfig.json
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\InitialiseDatabase.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\InitialiseDatabase.dll
+C:\Users\User\source\repos\ADO.Net\ADO.Net\bin\Debug\netcoreapp2.0\InitialiseDatabase.pdb
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\InitialiseDatabase.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\InitialiseDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\InitialiseDatabase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\InitialiseDatabase.AssemblyInfo.cs
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\InitialiseDatabase.dll
+C:\Users\User\source\repos\ADO.Net\ADO.Net\obj\Debug\netcoreapp2.0\InitialiseDatabase.pdb
