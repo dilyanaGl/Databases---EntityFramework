@@ -1,0 +1,17 @@
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.deps.json
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.runtimeconfig.json
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.runtimeconfig.dev.json
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.dll
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.AssemblyInfoInputs.cache
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.AssemblyInfo.cs
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.pdb
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\Serialiser.dll
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.pdb
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\Serialiser.pdb
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.dll
+c:\users\user\source\repos\P01_BillsPaymentSystem\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.pdb
