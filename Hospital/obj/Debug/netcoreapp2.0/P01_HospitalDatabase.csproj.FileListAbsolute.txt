@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\Submission_7435923\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+C:\Users\User\Downloads\Submission_7435923\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\User\Downloads\Submission_7435923\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Submission_7435923\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Submission_7435923\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Submission_7435923\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\User\Downloads\Submission_7435923\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.json
+C:\Users\User\Downloads\Submission_7435923\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\Users\User\Downloads\Submission_7435923\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\User\Downloads\Submission_7435923\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\User\Downloads\Submission_7435923\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
