@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\XmlProcessing\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+C:\Users\User\source\repos\XmlProcessing\Data\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\User\source\repos\XmlProcessing\Data\obj\Debug\netcoreapp2.0\Data.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\XmlProcessing\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\XmlProcessing\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\XmlProcessing\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+C:\Users\User\source\repos\XmlProcessing\Data\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\User\source\repos\XmlProcessing\Data\bin\Debug\netcoreapp2.0\DataModels.dll
+C:\Users\User\source\repos\XmlProcessing\Data\bin\Debug\netcoreapp2.0\DataModels.pdb
+C:\Users\User\source\repos\XmlProcessing\Data\obj\Debug\netcoreapp2.0\Data.dll
+C:\Users\User\source\repos\XmlProcessing\Data\obj\Debug\netcoreapp2.0\Data.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\obj\Debug\netcoreapp2.0\BusTicketSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\obj\Debug\netcoreapp2.0\BusTicketSystem.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\obj\Debug\netcoreapp2.0\BusTicketSystem.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\bin\Debug\netcoreapp2.0\BusTicketSystem.Data.deps.json
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\bin\Debug\netcoreapp2.0\BusTicketSystem.Data.dll
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\bin\Debug\netcoreapp2.0\BusTicketSystem.Data.pdb
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\bin\Debug\netcoreapp2.0\BusTicketSystem.Models.dll
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\bin\Debug\netcoreapp2.0\BusTicketSystem.Models.pdb
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\obj\Debug\netcoreapp2.0\BusTicketSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\obj\Debug\netcoreapp2.0\BusTicketSystem.Data.dll
+C:\Users\User\source\repos\BusTicketSystem\BusTicketSystem.Data\obj\Debug\netcoreapp2.0\BusTicketSystem.Data.pdb

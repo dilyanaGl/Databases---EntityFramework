@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\obj\Debug\netcoreapp2.0\DataGenerator.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\obj\Debug\netcoreapp2.0\DataGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\obj\Debug\netcoreapp2.0\DataGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\obj\Debug\netcoreapp2.0\DataGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\bin\Debug\netcoreapp2.0\DataGenerator.deps.json
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\bin\Debug\netcoreapp2.0\DataGenerator.dll
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\bin\Debug\netcoreapp2.0\DataGenerator.pdb
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\bin\Debug\netcoreapp2.0\BusTicketSystem.Data.dll
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\bin\Debug\netcoreapp2.0\BusTicketSystem.Models.dll
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\bin\Debug\netcoreapp2.0\BusTicketSystem.Data.pdb
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\bin\Debug\netcoreapp2.0\BusTicketSystem.Models.pdb
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\obj\Debug\netcoreapp2.0\DataGenerator.dll
+C:\Users\User\source\repos\BusTicketSystem\DataGenerator\obj\Debug\netcoreapp2.0\DataGenerator.pdb

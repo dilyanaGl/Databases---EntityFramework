@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\XmlCars\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\XmlCars\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\XmlCars\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\XmlCars\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.AssemblyInfo.cs
+C:\Users\User\source\repos\XmlCars\DataProcessor\bin\Debug\netcoreapp2.0\DataProcessor.deps.json
+C:\Users\User\source\repos\XmlCars\DataProcessor\bin\Debug\netcoreapp2.0\DataProcessor.dll
+C:\Users\User\source\repos\XmlCars\DataProcessor\bin\Debug\netcoreapp2.0\DataProcessor.pdb
+C:\Users\User\source\repos\XmlCars\DataProcessor\bin\Debug\netcoreapp2.0\XmlCars.Data.dll
+C:\Users\User\source\repos\XmlCars\DataProcessor\bin\Debug\netcoreapp2.0\XmlCars.Models.dll
+C:\Users\User\source\repos\XmlCars\DataProcessor\bin\Debug\netcoreapp2.0\XmlCars.Data.pdb
+C:\Users\User\source\repos\XmlCars\DataProcessor\bin\Debug\netcoreapp2.0\XmlCars.Models.pdb
+C:\Users\User\source\repos\XmlCars\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.dll
+C:\Users\User\source\repos\XmlCars\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.pdb

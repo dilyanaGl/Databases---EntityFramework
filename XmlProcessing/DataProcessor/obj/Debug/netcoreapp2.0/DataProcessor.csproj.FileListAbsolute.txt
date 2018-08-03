@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\bin\Debug\netcoreapp2.0\DataProcessor.deps.json
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\bin\Debug\netcoreapp2.0\DataProcessor.dll
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\bin\Debug\netcoreapp2.0\DataProcessor.pdb
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\bin\Debug\netcoreapp2.0\DataModels.dll
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\bin\Debug\netcoreapp2.0\DataModels.pdb
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.AssemblyInfo.cs
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.dll
+C:\Users\User\source\repos\XmlProcessing\DataProcessor\obj\Debug\netcoreapp2.0\DataProcessor.pdb

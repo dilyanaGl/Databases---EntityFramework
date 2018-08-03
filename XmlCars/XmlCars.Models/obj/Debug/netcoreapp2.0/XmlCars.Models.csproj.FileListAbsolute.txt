@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\obj\Debug\netcoreapp2.0\XmlCars.Models.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\obj\Debug\netcoreapp2.0\XmlCars.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\obj\Debug\netcoreapp2.0\XmlCars.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\obj\Debug\netcoreapp2.0\XmlCars.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\bin\Debug\netcoreapp2.0\XmlCars.Models.deps.json
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\bin\Debug\netcoreapp2.0\XmlCars.Models.dll
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\bin\Debug\netcoreapp2.0\XmlCars.Models.pdb
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\obj\Debug\netcoreapp2.0\XmlCars.Models.dll
+C:\Users\User\source\repos\XmlCars\XmlCars.Models\obj\Debug\netcoreapp2.0\XmlCars.Models.pdb

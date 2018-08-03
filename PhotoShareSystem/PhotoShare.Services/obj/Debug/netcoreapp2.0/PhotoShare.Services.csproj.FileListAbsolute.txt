@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Services.deps.json
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Services.dll
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Services.pdb
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.AssemblyInfo.cs
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.dll
+C:\Users\User\Downloads\PhotoShareSystem\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.pdb
