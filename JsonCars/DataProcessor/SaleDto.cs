@@ -1,0 +1,13 @@
+﻿using DataProcessor.Dto.Export;
+
+namespace DataProcessor
+{
+    internal class SaleDto
+    {
+        public CarPartDto Car { get; set; }
+        public string CustomerName { get; set; }
+        public decimal Discount { get; set; }
+        public decimal Price { get; set; }
+        public decimal PriceWithDiscount { get; set; }
+    }
+}

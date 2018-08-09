@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JsonProduct.Models\JsonProduct.Models.csproj" />
+    <ProjectReference Include="..\JsonProducts.App\JsonProducts.Data.csproj" />
+  </ItemGroup>
+
+</Project>

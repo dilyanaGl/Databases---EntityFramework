@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\bin\Debug\netcoreapp2.0\JsonProcessing.Data.deps.json
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\bin\Debug\netcoreapp2.0\JsonProcessing.Data.dll
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\obj\Debug\netcoreapp2.0\JsonProcessing.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\obj\Debug\netcoreapp2.0\JsonProcessing.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\obj\Debug\netcoreapp2.0\JsonProcessing.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\obj\Debug\netcoreapp2.0\JsonProcessing.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\bin\Debug\netcoreapp2.0\JsonProcessing.Models.dll
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\bin\Debug\netcoreapp2.0\JsonProcessing.Data.pdb
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\bin\Debug\netcoreapp2.0\JsonProcessing.Models.pdb
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\obj\Debug\netcoreapp2.0\JsonProcessing.Data.dll
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.Data\obj\Debug\netcoreapp2.0\JsonProcessing.Data.pdb

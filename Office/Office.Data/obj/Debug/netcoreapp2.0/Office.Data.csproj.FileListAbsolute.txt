@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Office\Office.Data\bin\Debug\netcoreapp2.0\Office.Models.dll
+C:\Users\User\source\repos\Office\Office.Data\obj\Debug\netcoreapp2.0\Office.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Office\Office.Data\obj\Debug\netcoreapp2.0\Office.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Office\Office.Data\obj\Debug\netcoreapp2.0\Office.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Office\Office.Data\obj\Debug\netcoreapp2.0\Office.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\Office\Office.Data\bin\Debug\netcoreapp2.0\Office.Data.deps.json
+C:\Users\User\source\repos\Office\Office.Data\bin\Debug\netcoreapp2.0\Office.Data.dll
+C:\Users\User\source\repos\Office\Office.Data\bin\Debug\netcoreapp2.0\Office.Data.pdb
+C:\Users\User\source\repos\Office\Office.Data\bin\Debug\netcoreapp2.0\Office.Models.pdb
+C:\Users\User\source\repos\Office\Office.Data\obj\Debug\netcoreapp2.0\Office.Data.dll
+C:\Users\User\source\repos\Office\Office.Data\obj\Debug\netcoreapp2.0\Office.Data.pdb

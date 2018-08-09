@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\obj\Debug\netcoreapp2.0\JsonProcessing.App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\obj\Debug\netcoreapp2.0\JsonProcessing.App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\obj\Debug\netcoreapp2.0\JsonProcessing.App.AssemblyInfo.cs
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.App.deps.json
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.App.runtimeconfig.json
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.App.runtimeconfig.dev.json
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.App.dll
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.App.pdb
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\DataProcessor.dll
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.Data.dll
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.Models.dll
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\DataProcessor.pdb
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.Data.pdb
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\bin\Debug\netcoreapp2.0\JsonProcessing.Models.pdb
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\obj\Debug\netcoreapp2.0\JsonProcessing.App.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\obj\Debug\netcoreapp2.0\JsonProcessing.App.dll
+C:\Users\User\source\repos\JsonProcessing\JsonProcessing.App\obj\Debug\netcoreapp2.0\JsonProcessing.App.pdb

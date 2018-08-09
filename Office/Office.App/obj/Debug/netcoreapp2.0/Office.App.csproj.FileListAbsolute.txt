@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.App.deps.json
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.App.runtimeconfig.json
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.App.runtimeconfig.dev.json
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.App.dll
+C:\Users\User\source\repos\Office\Office.App\obj\Debug\netcoreapp2.0\Office.App.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Office\Office.App\obj\Debug\netcoreapp2.0\Office.App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Office\Office.App\obj\Debug\netcoreapp2.0\Office.App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Office\Office.App\obj\Debug\netcoreapp2.0\Office.App.AssemblyInfo.cs
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.Data.dll
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.Models.dll
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.Services.dll
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.App.pdb
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.Data.pdb
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.Models.pdb
+C:\Users\User\source\repos\Office\Office.App\bin\Debug\netcoreapp2.0\Office.Services.pdb
+C:\Users\User\source\repos\Office\Office.App\obj\Debug\netcoreapp2.0\Office.App.dll
+C:\Users\User\source\repos\Office\Office.App\obj\Debug\netcoreapp2.0\Office.App.pdb

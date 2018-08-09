@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataProcessor\DataProcessor.csproj" />
+    <ProjectReference Include="..\JsonProducts.App\JsonProducts.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ExportResults\" />
+  </ItemGroup>
+
+</Project>

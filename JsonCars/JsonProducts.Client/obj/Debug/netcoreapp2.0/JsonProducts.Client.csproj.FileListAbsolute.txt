@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\obj\Debug\netcoreapp2.0\JsonProducts.Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\obj\Debug\netcoreapp2.0\JsonProducts.Client.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\obj\Debug\netcoreapp2.0\JsonProducts.Client.AssemblyInfo.cs
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProducts.Client.deps.json
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProducts.Client.runtimeconfig.json
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProducts.Client.runtimeconfig.dev.json
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProducts.Client.dll
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProducts.Client.pdb
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\DataProcessor.dll
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProduct.Models.dll
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProducts.Data.dll
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\DataProcessor.pdb
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProducts.Data.pdb
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\bin\Debug\netcoreapp2.0\JsonProduct.Models.pdb
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\obj\Debug\netcoreapp2.0\JsonProducts.Client.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\obj\Debug\netcoreapp2.0\JsonProducts.Client.dll
+C:\Users\User\source\repos\JsonProducts\JsonProducts.Client\obj\Debug\netcoreapp2.0\JsonProducts.Client.pdb
